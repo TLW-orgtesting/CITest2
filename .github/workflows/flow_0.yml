@@ -30,3 +30,4 @@ jobs:
         run: |
           echo this is flow 0 test.
           pwd
+          echo this is after pwd
